@@ -18,7 +18,7 @@ In PROS projects (if required) may contain their own Makefile and additional ins
 * `#pragma once` is neater than normal header guards
 * Dont mix and match syntax styles inside of projects! ie choose between `void* foo` and `void *foo` then stick with it
 * Future proof. avoid having to deprecate functions in the future.
-* Users rarely read documentation, put some examples in an `examples` sub folder if possible
+* Put some examples in an `examples` sub folder if possible
 * TEST YOUR CODE BEFORE PUSHING!
 
 ## Issue tracker
